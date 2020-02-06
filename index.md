@@ -59,7 +59,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2 id="registration">Registration</h2>
-<p> Please register <a href="">here</a>.</p>
+<p> Please register <a href="https://forms.gle/PSEModXjuvToyPPM8">here</a>.</p>
 <hr/>
 
 <h2 id="general">General Information</h2>
