@@ -4,6 +4,8 @@ venue: "Imperial College London"        # brief name of host site without addres
 address: "ICT training room, Central Library 204, South Kensington Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "GB"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
+latitude: "51.498152"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-0.178368"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 latlng: "51.498800,-0.174877"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "March 26-27, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "10:00 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
